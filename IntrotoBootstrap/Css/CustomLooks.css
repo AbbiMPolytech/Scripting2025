@@ -1,0 +1,17 @@
+/******Header******/
+header,#ABOUT{ background-color: rgb(136, 187, 187);}
+
+
+/******Header******/
+
+footer { background-color: #333132;
+background-image: url(../bsImages/backgrounds/scallopWhite.png);
+background-repeat: repeat-x;
+
+}
+
+#ABOUT { background-image: url(../bsImages/backgrounds/Abstract-blue_0.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
