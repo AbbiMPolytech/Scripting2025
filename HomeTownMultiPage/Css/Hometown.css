@@ -1,0 +1,64 @@
+/*****HALIFAX TEXT****/
+.HomeText {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-family: Anton;
+}
+.homeTextSize {
+  font-size: 200px;
+}
+
+@media screen and (max-width: 800px) {
+  .homeTextSize {
+    font-size: x-large;
+  }
+}
+/*****HALIFAX TEXT****/
+/****************Link Color*******************/
+/* unvisited link */
+a:link {
+  color: rgb(255, 255, 255);
+}
+
+/* visited link */
+a:visited {
+  color: rgb(255, 255, 255);
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(72, 105, 167);
+}
+
+/* selected link */
+a:active {
+  color: rgb(255, 255, 255);
+}
+/****************Link Coloring*******************/
+body {
+  background-color: rgb(255, 252, 239);
+  font-family: DM Sans;
+}
+/****************Footer*******************/
+footer {
+  background-color: rgb(23, 46, 105);
+  font-family: DM Sans;
+}
+
+nav {
+  background-color: rgb(23, 46, 105);
+}
+
+/****************Footer*******************/
+
+/********************Questions****************************/
+/*
+    
+
+
+
+
+*/
