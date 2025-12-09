@@ -1,0 +1,43 @@
+header {
+  background-image: url("../img/CodingBG.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 60px 0;
+  text-align: center;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+  font-family: "Bayon";
+}
+header h1 {
+  font-size: 4rem;
+  font-weight: 700;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+}
+
+body {
+  background-color: black;
+  font-family: "Atkinson Hyperlegible Mono";
+  font-size: 22px;
+}
+.story-box {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 20px;
+  border-radius: 15px;
+  border: 2px solid #66e492;
+  color: #66e492;
+  text-shadow: 0 0 5px #66e492;
+  box-shadow: 0 0 20px rgba(57, 255, 20, 0.4);
+  max-width: 800px;
+  margin: 40px auto;
+  font-family: "Courier New", monospace; /* hacker font */
+}
+footer {
+  background-image: url("../img/CodingBG.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 60px 0;
+  text-align: center;
+  font-family: "Bayon";
+  font-size: 30px;
+}
